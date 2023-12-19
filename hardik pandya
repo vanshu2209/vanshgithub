@@ -1,0 +1,17 @@
+#include<stdio.h>
+//hardik
+
+
+int main()
+{
+	float r, h;
+	printf("enter the radius");
+	scanf("%f", &r);
+	float v;
+	v=2*3.14*r*r*h;
+	
+	printf("enter the height");
+	scanf("%f" , &h);
+	printf("result= %f", v);
+	return 0;
+}	
